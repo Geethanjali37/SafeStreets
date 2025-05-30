@@ -4,6 +4,8 @@
 **SafeStreets** is a modern, responsive transportation service website built with **HTML**, **CSS**, and **JavaScript**. This project provides a clean and functional platform that showcases essential travel-related services, encouraging users to book rides, check availability, and access emergency support—all with ease and clarity.
 
 
+* 📱 **Fully Responsive Design** – Smooth user experience across desktop and mobile devices.
+
 ## 🛠️ Technologies Used
 
 * **HTML5** – For semantic and structured content
@@ -11,6 +13,7 @@
 * **JavaScript (Vanilla)** – For dynamic interactions and UI behavior
 * **Bootstrap 4** – For responsive layout and components
 
-🔗 Live Demo
+## 🔗 Live Demo
 
 [**🌐 Click here to view SafeStreets live**](https://safestreets.netlify.app/)
+
